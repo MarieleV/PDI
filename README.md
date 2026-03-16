@@ -1,18 +1,13 @@
 # PDI - Plano de Desenvolvimento Individual
 
-**Disciplina:** Algoritmos Avançados (Foco em Python)
-
 ---
+Durante minhas experiências profissionais, tive muito contato com a área de dados e adquiri grande familiaridade com práticas de ETL e análise de dados. E, ao decorrer do curso, percebi que tenho maior domínio no que diz respeito ao back-end.
+Por esse motivo, para o meu Plano de Desenvolvimento Pessoal, desejo focar em estudos relacionados à Engenharia de Dados e Back-End, principalmente a área de Data Engineering.
 
 ## 🎯 Objetivo
 
-- Em uma altoavaliação com o intuito de melhorar como profissional, hoje (11/03/2025), considero meus conhecimentos e práticas em SQL e Python de **Nível intermediário**, mas com pouca prática. Tenho noções dos fundamentos de engenharia de dados e iniciei estudos práticos em Databricks, SQL, Spark e arquitetura Lakehouse.
- A minha meta pessoal para o semestre é de ter domínio total em Engenharia de Dados (SQL e Python avançados), construção de pipelines (ETL/ELT), orquestração em Cloud, data lakes e processamento distribuído.
-
-## 🚀 Motivação
-A minha motivação na disciplina de Algoritmos Avançados nasce da necessidade de construir uma base sólida para a Engenharia de Dados. Compreender como os dados são processados e estruturados de forma eficiente é o que diferencia scripts lentos de pipelines robustos e escaláveis. 
-
-Quero sair da teoria intermediária em Python e dominar as estruturas que rodam "por baixo dos panos" em motores de processamento distribuído como o Spark. Esse domínio técnico, focado em performance e otimização, é o alicerce fundamental para o meu futuro profissional como Engenheira de Dados especialista na construção de Data Lakes e arquiteturas complexas.
+Desejo desenvolver um domínio sólido em conceitos fundamentais de algoritmos e estruturas de dados. Atualmente possuo níveis iniciais ou intermediários nesses tópicos e pretendo evoluir principalmente na capacidade de analisar eficiência de algoritmos, compreender o comportamento da memória e escolher estruturas de dados adequadas para otimizar performance. Paralelamente, também busco alcançar domínio completo da linguagem Python, ampliando minha capacidade de desenvolver soluções robustas e eficientes. Além disso, pretendo aprofundar meus conhecimentos em engenharia de dados, utilizando ferramentas e tecnologias como Databricks, Apache Spark, Delta Lake e SQL para manipulação, processamento e organização de grandes volumes de dados. 
+O desenvolvimento dessas competências está diretamente conectado ao meu objetivo acadêmico e profissional de atuar nas áreas de Engenharia de Dados e desenvolvimento back-end, pois compreender profundamente algoritmos, estruturas de dados e processamento eficiente de informações é essencial para construir pipelines de dados escaláveis, sistemas de processamento distribuído e APIs eficientes, que são fundamentais em arquiteturas modernas de software e plataformas orientadas a dados.
 
 ---
 
@@ -34,16 +29,17 @@ Quero sair da teoria intermediária em Python e dominar as estruturas que rodam 
 
 | Curso | Descrição do Curso | Progresso |
 |------|------|------|
-| Engenharia de Dados com Databricks | Curso focado em processamento de dados, pipelines e arquitetura de dados utilizando a plataforma Databricks com projeto em ambiente real Azure + Lakehouse. | 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 35% |
-| Trilha Python | Desenvolvimento de projetos completos em Python com Estrutura de Dados. | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50% |
-| Python Essentials 2 | Curso aprofundado em Python com foco em conceitos intermediários e avançados, preparando para a certificação PCAP – Certified Associate in Python Programming. | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 10% |
+| **Engenharia de Dados com Databricks** | Curso focado em processamento de dados, pipelines e arquitetura de dados utilizando a plataforma Databricks com projeto em ambiente real Azure + Lakehouse. | 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 35% |
+| **Trilha Python** | Desenvolvimento de projetos completos em Python com Estrutura de Dados. | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50% |
+| **Python Essentials 2** | Curso aprofundado em Python com foco em conceitos intermediários e avançados, preparando para a certificação PCAP – Certified Associate in Python Programming. | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 10% |
 ---
 ## 📅 Rotina Semanal de Estudo
 
 | Dia e Horário | Tipo de Atividade | Descrição |
 | :--- | :--- | :--- |
-| Quarta-feira <br> 19h00 às 21h00 | Teoria e Implementação Básica | Leitura dos conceitos da semana da faculdade, rabiscos no papel para entender a lógica matemática/visual, e codificação dos exemplos básicos em Python. |
-| Sexta-feira <br> 09h00 às 12h00 | Prática Intensa e Projeto | Momento focado em resolver exercícios da faculdade, quebrar a cabeça com bugs e construir o código das Metas Técnicas. |
+| **Quarta-feira** <br> 19h00 às 21h00 | Teoria e Implementação Básica | Leitura dos conceitos da semana da faculdade, andamento nos cursos, e codificação de exercícios em Python. |
+| **Sexta-feira** <br> 09h00 às 12h00 | Prática Intensa e Projeto | Momento focado em resolver exercícios da faculdade, focar em projetos de Data Enginner  |
+| **Todos os dias** | Pelo menos 1hr de estudos da faculdade/cursos
 ---
 
 ## 🛠️ Metas Técnicas
