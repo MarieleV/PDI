@@ -30,6 +30,21 @@ Quero sair da teoria intermediária em Python e dominar as estruturas que rodam 
 | **Grafos** | 🟩⬜⬜⬜⬜ (1/5) | Compreender teoria de vértices/arestas e algoritmos de busca. |
 
 ---
+## 📚 Cursos e Progresso -  [Organização via Trello](https://trello.com/invite/b/697a393fc18b548fd2c7140e/ATTIf172a321cb42af2ee83adde4309575c79917BC98/objetivos-de-aprendizagem-para-dataenginner) 
+
+| Curso | Descrição do Curso | Progresso |
+|------|------|------|
+| Engenharia de Dados com Databricks | Curso focado em processamento de dados, pipelines e arquitetura de dados utilizando a plataforma Databricks com projeto em ambiente real Azure + Lakehouse. | 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 35% |
+| Trilha Python | Desenvolvimento de projetos completos em Python com Estrutura de Dados. | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50% |
+| Python Essentials 2 | Curso aprofundado em Python com foco em conceitos intermediários e avançados, preparando para a certificação PCAP – Certified Associate in Python Programming. | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 10% |
+---
+## 📅 Rotina Semanal de Estudo
+
+| Dia e Horário | Tipo de Atividade | Descrição |
+| :--- | :--- | :--- |
+| Quarta-feira <br> 19h00 às 21h00 | Teoria e Implementação Básica | Leitura dos conceitos da semana da faculdade, rabiscos no papel para entender a lógica matemática/visual, e codificação dos exemplos básicos em Python. |
+| Sexta-feira <br> 09h00 às 12h00 | Prática Intensa e Projeto | Momento focado em resolver exercícios da faculdade, quebrar a cabeça com bugs e construir o código das Metas Técnicas. |
+---
 
 ## 🛠️ Metas Técnicas
 
@@ -41,7 +56,7 @@ Quero sair da teoria intermediária em Python e dominar as estruturas que rodam 
 | **Descrição** | Aprender a calcular a complexidade de tempo e espaço (Notação Big-O) de scripts Python. |
 | **Plano de Ação** | Estudar a teoria de Big-O e refatorar 3 scripts simples de Python, anotando a complexidade do "antes e depois" da otimização. |
 | **Medição** | Conseguir classificar a complexidade de qualquer função simples em Python sem consultar materiais externos. |
-| **Prazo** | Fim do primeiro mês de aulas. |
+| **Prazo** | A definir|
 
 ### 🎯 Meta 2: Desenvolver o Projeto "Mini ETL Nativo" com Estruturas de Dados
 
@@ -51,12 +66,7 @@ Quero sair da teoria intermediária em Python e dominar as estruturas que rodam 
 | **Descrição** | Implementar estruturas de dados complexas aplicadas a um problema real de engenharia. |
 | **Plano de Ação** | Criar um script Python (sem bibliotecas externas) que lê um arquivo CSV grande, usa *Hash Tables* (Dicionários) para remover duplicatas e uma *Árvore de Busca* para ordenar os dados rapidamente, salvando em um novo arquivo. |
 | **Medição** | Projeto rodando sem erros de execução, com o código sendo 100% compreendido e explicado por mim. |
-| **Prazo** | Metade do semestre. |
-
-
-
-[Image of a Binary Search Tree data structure diagram]
-
+| **Prazo** |  A definir |
 
 ---
 
@@ -71,31 +81,43 @@ Quero sair da teoria intermediária em Python e dominar as estruturas que rodam 
 | **Prazo** | Fim do semestre. |
 
 ---
-## 🧶 Cursos em Andamento -  [Organização via Trello](https://trello.com/invite/b/697a393fc18b548fd2c7140e/ATTIf172a321cb42af2ee83adde4309575c79917BC98/objetivos-de-aprendizagem-para-dataenginner)
-
-## 📅 Rotina Semanal de Estudo
-
-| Dia e Horário | Tipo de Atividade | Descrição |
-| :--- | :--- | :--- |
-| Quarta-feira <br> 19h00 às 21h00 | Teoria e Implementação Básica | Leitura dos conceitos da semana da faculdade, rabiscos no papel para entender a lógica matemática/visual, e codificação dos exemplos básicos em Python. |
-| Sexta-feira <br> 09h00 às 12h00 | Prática Intensa e Projeto | Momento focado em resolver exercícios da faculdade, quebrar a cabeça com bugs e construir o código das Metas Técnicas. |
----
 
 ## 🤖 Plano de Uso de IA
 
- Como um "Tutor Socrático" e Code Reviewer para fazer perguntas guiadas e explicar o comportamento da memória.
-* **Momentos de apoio:** Para gerar massa de dados fictícios (CSV/JSON) e pedir dicas de erros lógicos.
+* **Apoio:** Para gerar volume de dados fictícios (CSV/JSON) e pedir dicas de erros lógicos.
 * **Limites inegociáveis:**
-  1. **Explique, não codifique:** Meus prompts exigirão explicações conceituais, sem código pronto.
-  2. **Regra do Descarte:** Se eu ler um código da IA para entender um conceito, devo fechar a aba e implementá-lo do zero usando meu próprio raciocínio. *Ctrl+C / Ctrl+V proibidos.*
+  1. **Deve explicar, não codificar:** Meus prompts exigirão explicações conceituais, sem código pronto.
+  2. **Regra do Descarte:** Ler o código e a explicação gerado por IA, porém implementá-lo do zero usando meu próprio raciocínio e sem consultar novamente o código. *Ctrl+C / Ctrl+V proibidos.*
  
-## ✨ Plano de Carreira
-###  Certificação Databricks Data Engineer
-![Tela de Login](./img/databricks-enginner)
+## 🏆✨ Plano de Certificações
 
-###  Certificação Azure Data Engineer
-![Dashboard](./img/azure-dataenginner)
+<table align="center">
+<tr>
+<td align="center">
 
-###  Certificação Profissional de Python
-![Cadastro](./img/selo-python-avancado)
+<img src="img/databricks-enginner.png" width="130"/>
+
+**Databricks Data Engineer**
+
+</td>
+
+<td align="center">
+
+<img src="img/azure-dataenginner.png" width="180"/>
+
+**Azure Data Engineer**
+
+</td>
+
+<td align="center">
+
+<img src="img/selo-python-avancado.png" width="180"/>
+
+**Python Profissional**
+
+</td>
+</tr>
+</table>
+
+
 
