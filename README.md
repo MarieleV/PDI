@@ -6,7 +6,7 @@
 
 ## 🎯 Objetivo
 
-- Em uma altoavaliação com o intuito de melhor como profissional, hoje (11/03/2025), considero meus conhecimentos e práticas em SQL e Python de **Nível intermediário**, mas com pouca prática. Tenho noções dos fundamentos de engenharia de dados e iniciei estudos práticos em Databricks, SQL, Spark e arquitetura Lakehouse.
+- Em uma altoavaliação com o intuito de melhorar como profissional, hoje (11/03/2025), considero meus conhecimentos e práticas em SQL e Python de **Nível intermediário**, mas com pouca prática. Tenho noções dos fundamentos de engenharia de dados e iniciei estudos práticos em Databricks, SQL, Spark e arquitetura Lakehouse.
  A minha meta pessoal para o semestre é de ter domínio total em Engenharia de Dados (SQL e Python avançados), construção de pipelines (ETL/ELT), orquestração em Cloud, data lakes e processamento distribuído.
 
 ## 🚀 Motivação
@@ -71,6 +71,7 @@ Quero sair da teoria intermediária em Python e dominar as estruturas que rodam 
 | **Prazo** | Fim do semestre. |
 
 ---
+## 🧶 Cursos em Andamento -  [Organização via Trello](https://trello.com/invite/b/697a393fc18b548fd2c7140e/ATTIf172a321cb42af2ee83adde4309575c79917BC98/objetivos-de-aprendizagem-para-dataenginner)
 
 ## 📅 Rotina Semanal de Estudo
 
@@ -87,3 +88,14 @@ Quero sair da teoria intermediária em Python e dominar as estruturas que rodam 
 * **Limites inegociáveis:**
   1. **Explique, não codifique:** Meus prompts exigirão explicações conceituais, sem código pronto.
   2. **Regra do Descarte:** Se eu ler um código da IA para entender um conceito, devo fechar a aba e implementá-lo do zero usando meu próprio raciocínio. *Ctrl+C / Ctrl+V proibidos.*
+ 
+## ✨ Plano de Carreira
+###  Certificação Databricks Data Engineer
+![Tela de Login](./img/databricks-enginner)
+
+###  Certificação Azure Data Engineer
+![Dashboard](./img/azure-dataenginner)
+
+###  Certificação Profissional de Python
+![Cadastro](./img/selo-python-avancado)
+
